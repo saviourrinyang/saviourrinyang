@@ -1,7 +1,7 @@
 
 <!---
 saviourrinyang/saviourrinyang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to see your changes.
 --->
 
 Hi, I'm Saviour 👋
@@ -20,5 +20,5 @@ I'm a Product Designer with a Computer Engineering background. I'm also interest
 
 - Email: hello@saviourinyang.com
 - Portfolio: www.saviourinyang.com
-- LinkedIn: linkedin.com/in/saviourrinyang
-- Figma: figma.com/@saviourinyang
+- LinkedIn: https://linkedin.com/in/saviourrinyang
+- Figma: https://figma.com/@saviourrinyang
