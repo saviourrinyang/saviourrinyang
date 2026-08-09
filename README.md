@@ -1,24 +1,22 @@
+# Hi, I'm Saviour 👋
 
-<!---
-saviourrinyang/saviourrinyang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to see your changes.
---->
+I'm a Product Designer with a background in engineering and visual design.
 
-Hi, I'm Saviour 👋
+I'm interested in product design, design systems, AI-assisted prototyping and design engineering.
 
-I'm a Product Designer with a Computer Engineering background. I'm also interested in design engineering, AI-assisted prototyping, and how design connects better with development.
+Lately, I've been exploring code through tools like Figma Make, Claude and Antigravity, mostly to prototype ideas, understand implementation better and get closer to how products are actually built.
 
 ## Focus areas
 
 - Product Design
-- UX Design
 - Design Systems
-- Prototyping
+- AI Prototyping
 - Design Engineering
+- Interaction Design
 
 ## Links
 
-- Email: hello@saviourinyang.com
-- Portfolio: www.saviourinyang.com
+- Portfolio: https://www.saviourinyang.com
 - LinkedIn: https://linkedin.com/in/saviourrinyang
 - Figma: https://figma.com/@saviourrinyang
+- Email: hello@saviourinyang.com
